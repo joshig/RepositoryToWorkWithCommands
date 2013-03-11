@@ -6,5 +6,5 @@ This change is to test pull for new sesion?
 
 another try to simulate synch process
 
-this test needs to be appended to the other copy
+
 
